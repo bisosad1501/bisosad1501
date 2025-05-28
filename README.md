@@ -5,7 +5,7 @@
 
 <!-- Enhanced Typing Animation with Professional Touch -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=650&height=100&duration=3000&lines=🚀+Welcome+to+my+Digital+Universe!;💻+Full+Stack+Developer+%26+Tech+Enthusiast;🌟+Building+Amazing+Digital+Experiences;⚡+Always+Learning+%26+Innovating;🎯+Let's+Create+Something+Awesome!&color=9945FF&background=00000000&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&center=true&vCenter=true&width=650&height=100&duration=3000&lines=Welcome+to+my+Digital+Universe!;Full+Stack+Developer;Building+Amazing+Experiences;Always+Learning+and+Innovating;Let's+Create+Something+Awesome!&color=9945FF&background=00000000&pause=1000&repeat=true" />
 </div>
 
 <!-- Professional Badge Row with Unified Colors -->
@@ -19,7 +19,7 @@
 
 <!-- About Me Section with Enhanced Design -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🌟+About+Me+🌟;💡+Code+Creator+%26+Problem+Solver+💡;🎨+Turning+Ideas+Into+Reality+🎨&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&color=9945FF" />
+  <img src="https://readme-typing-svg.demolab.com?lines=%F0%9F%8C%9F+About+Me+%F0%9F%8C%9F;%F0%9F%92%A1+Code+Creator+%26+Problem+Solver;%F0%9F%8E%A8+Turning+Ideas+Into+Reality&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&color=9945FF&repeat=true" />
 </h2>
 
 <!-- Enhanced Profile Card with Modern Design -->
@@ -43,7 +43,7 @@
 
 <!-- Tech Stack Section with Improved Design -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🛠️+Tech+Arsenal+🛠️;⚡+Technologies+I+Master+⚡;🚀+Tools+That+Power+My+Code+🚀&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&color=6366F1" />
+  <img src="https://readme-typing-svg.demolab.com?lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Arsenal;%E2%9A%A1+Technologies+I+Master;%F0%9F%9A%80+Tools+That+Power+My+Code&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&color=6366F1&repeat=true" />
 </h2>
 
 <!-- Tech Stack Grid -->
@@ -70,7 +70,7 @@
 
 <!-- GitHub Statistics Section -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=📊+GitHub+Analytics+📊;📈+Performance+Metrics+📈;⚡+Coding+Statistics+⚡&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&color=9945FF" />
+  <img src="https://readme-typing-svg.demolab.com?lines=%F0%9F%93%8A+GitHub+Analytics;%F0%9F%93%88+Performance+Metrics;%E2%9A%A1+Coding+Statistics&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&color=9945FF&repeat=true" />
 </h2>
 
 <!-- Stats Cards -->
@@ -81,19 +81,19 @@
 
 <!-- Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bisosad1501&theme=tokyonight&hide_border=true&background=0D1117&stroke=9945FF&ring=6366F1&fire=8B5CF6&currStreakLabel=9945FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=6366F1" />
+  <img src="https://streak-stats.demolab.com/?user=bisosad1501&theme=tokyonight&hide_border=true&background=0D1117&stroke=9945FF&ring=6366F1&fire=8B5CF6&currStreakLabel=9945FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=6366F1" />
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bisosad1501&theme=tokyo-night&bg_color=0D1117&color=9945FF&line=6366F1&point=8B5CF6&area=true&hide_border=true" width="100%" />
+  <img src="https://ssr-contributions-svg.vercel.app/_/bisosad1501?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=10_3&format=svg&weeks=34&theme=purple" width="100%" />
 </div>
 
 <br/>
 
 <!-- Snake Animation Section -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🐍+Contribution+Snake+🐍;🔥+Eating+My+Commits+🔥;⚡+Activity+Visualization+⚡&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&color=8B5CF6" />
+  <img src="https://readme-typing-svg.demolab.com?lines=%F0%9F%90%8D+Contribution+Snake;%F0%9F%94%A5+Eating+My+Commits;%E2%9A%A1+Activity+Visualization&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&color=8B5CF6&repeat=true" />
 </h2>
 
 <div align="center">
@@ -108,7 +108,7 @@
 
 <!-- GitHub Trophies Section -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🏆+GitHub+Achievements+🏆;🎖️+Milestones+%26+Trophies+🎖️;⭐+Recognition+Earned+⭐&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&color=9945FF" />
+  <img src="https://readme-typing-svg.demolab.com?lines=%F0%9F%8F%86+GitHub+Achievements;%F0%9F%8E%96%EF%B8%8F+Milestones+%26+Trophies;%E2%AD%90+Recognition+Earned&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&color=9945FF&repeat=true" />
 </h2>
 
 <div align="center">
@@ -119,7 +119,7 @@
 
 <!-- Featured Projects Section -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=💼+Featured+Projects+💼;🚀+My+Best+Work+🚀;⭐+Highlighted+Repositories+⭐&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&color=6366F1" />
+  <img src="https://readme-typing-svg.demolab.com?lines=%F0%9F%92%BC+Featured+Projects;%F0%9F%9A%80+My+Best+Work;%E2%AD%90+Highlighted+Repositories&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&color=6366F1&repeat=true" />
 </h2>
 
 <div align="center">
@@ -191,7 +191,7 @@
 
 <!-- Social Links Section -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🌐+Let's+Connect+🌐;💬+Reach+Out+%26+Collaborate+💬;🤝+Building+Networks+Together+🤝&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&color=8B5CF6" />
+  <img src="https://readme-typing-svg.demolab.com?lines=%F0%9F%8C%90+Let's+Connect;%F0%9F%92%AC+Reach+Out+%26+Collaborate;%F0%9F%A4%9D+Building+Networks+Together&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&color=8B5CF6&repeat=true" />
 </h2>
 
 <!-- Social Links -->
@@ -229,7 +229,7 @@
   
   <!-- Thank You Message -->
   <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting!+🙏;Let's+build+something+amazing+together!+🚀;Happy+coding!+💻⚡&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000&color=8B5CF6" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Thanks+for+visiting!+%F0%9F%99%8F;Let's+build+something+amazing!+%F0%9F%9A%80;Happy+coding!+%F0%9F%92%BB%E2%9A%A1&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000&color=8B5CF6&repeat=true" />
 </div>
 
 <!-- Final Wave Animation -->
